@@ -18,3 +18,7 @@ complexity의 원인은 크게 두 가지로 볼 수 있다.
 
 #### Complexity
 
+소프트웨어 개발에서 생기는 거의 모든 문제는 시스템을 완벽히 이해하지 못해서 발생한다. 시스템을 완벽히 이해하는데 방해가 되는 주된 원인은 complexity이다. Dijkstra를 포함한 많은 튜링상 수상자들도 complexity에 대한 위험성을 경고했다. 하지만 simplicity를 이루는 것은 어렵다
+
+#### Approaches to Understanding
+
